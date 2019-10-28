@@ -1,4 +1,4 @@
-lass Circle{
+class Circle{
 private:
     point p;
     double radius;
